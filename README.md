@@ -9,7 +9,7 @@
 ![Activity](https://img.shields.io/github/commit-activity/m/Xabaril/AspNetCore.Diagnostics.HealthChecks)
 ![Activity](https://img.shields.io/github/commit-activity/y/Xabaril/AspNetCore.Diagnostics.HealthChecks)
 
-# AspNetCore.Diagnostics.HealthChecks
+# AspNetCore.HealthTracking
 
 This repository offers a wide collection of **ASP.NET Core** Health Check packages for widely used services and platforms.
 
